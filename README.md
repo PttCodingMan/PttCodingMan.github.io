@@ -6,7 +6,7 @@ A software engineer at [Changingtec](https://www.changingtec.com/).
 Reach me [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)
 
 ### Wanted
-* Legal
+* Legal  
     Our new project need a legal to maintain [EULA](https://zh.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E7%94%A8%E6%88%B7%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE).
 
 ### Bio
