@@ -25,4 +25,5 @@ Reach me [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)
 * [PttBots](https://github.com/PttCodingMan/PTTBots)  
     This project collected my implementations of [PyPtt](https://github.com/PttCodingMan/PyPtt)
 * PTT official app  
-    A member of PTT official app team
+    A member of PTT official app team  
+    2019.11.16 - present  
