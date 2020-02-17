@@ -16,7 +16,7 @@ Reach me [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)
 ### Projects
 * [ServiSign](https://www.changingtec.com/servisign.html)  
     A cross-platform cross-browser plugin application programming interface.  
-    It can make any [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) from IE-only to cross-browser in Windows.  
+    It can make any [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) from IE-only to cross-browser on Windows.  
     This architecture can also be used on MacOS and Linux.
 * [PyPtt](https://github.com/PttCodingMan/PyPtt)  
     A pure python library to operate [PTT](https://term.ptt.cc/).
