@@ -21,9 +21,9 @@ Reach me CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.github.io/tel
     It can make any [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) from IE-only to cross-browser on Windows.  
     This architecture can also be used on MacOS and Linux.
 * [PyPtt](https://github.com/PttCodingMan/PyPtt)  
-    A pure python library to operate [PTT](https://term.ptt.cc/).
+    A pure python library to operate [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PTTOTP](https://github.com/PttCodingMan/PTTOTP)  
-    A one-time password application of [PTT](https://term.ptt.cc/).
+    A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PttBots](https://github.com/PttCodingMan/PTTBots)  
     This project collected my implementations of [PyPtt](https://github.com/PttCodingMan/PyPtt)
 * PTT official app  
