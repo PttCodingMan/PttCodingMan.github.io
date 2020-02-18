@@ -5,7 +5,7 @@
 Hi, I am CodingMan, bug maker.  
 A software engineer at [Changingtec](https://www.changingtec.com/).
 
-Reach me CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)
+Reach me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)
 
 ### Wanted
 * Legal  
