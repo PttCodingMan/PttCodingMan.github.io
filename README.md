@@ -21,11 +21,11 @@ You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia
     It can make any browser able to call functions in [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) on Windows.  
     This architecture can also be used on MacOS and Linux.  
     [Success story](https://www.google.com/search?q=ServiSign)
-* [PyPtt](https://github.com/PttCodingMan/PyPtt), 2017.5.28 - present  
+* [PyPtt](https://github.com/PttCodingMan/PyPtt) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PyPtt?style=social) 2017.5.28 - present  
     A pure python library to operate [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
-* [PTTOTP](https://github.com/PttCodingMan/PTTOTP), 2018.06.20 - present    
+* [PTTOTP](https://github.com/PttCodingMan/PTTOTP) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTOTP?style=social) 2018.06.20 - present    
     A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
-* [PttBots](https://github.com/PttCodingMan/PTTBots), 2018.10.10 - present  
+* [PttBots](https://github.com/PttCodingMan/PTTBots) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTBots?style=social) 2018.10.10 - present  
     This project collected my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).
 * uPtt, 2019.10.25 - present  
     Developing.
