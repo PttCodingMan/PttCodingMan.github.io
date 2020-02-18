@@ -27,7 +27,7 @@ You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia
     A pure python library to operate [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PTTOTP](https://github.com/PttCodingMan/PTTOTP) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTOTP?style=social)  
     2018.06.20 - present    
-    A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
+    A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     You can use google authenticator on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PttBots](https://github.com/PttCodingMan/PTTBots) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTBots?style=social)  
     2018.10.10 - present  
