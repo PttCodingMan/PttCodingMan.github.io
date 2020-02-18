@@ -5,7 +5,7 @@
 Hi, I am CodingMan, bug maker.  
 A software engineer at [Changingtec](https://www.changingtec.com/).
 
-You can reach me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)
+You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)
 
 ### Wanted
 * Legal  
@@ -26,9 +26,9 @@ You can reach me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.g
 * [PTTOTP](https://github.com/PttCodingMan/PTTOTP), 2018.06.20 - present    
     A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PttBots](https://github.com/PttCodingMan/PTTBots), 2018.10.10 - present  
-    This project collected my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt)
-* DocumentManager, 2019.11.9 - 2020.1.3
-    A document manager application for blind people  
-    A member of team
+    This project collected my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).
+* [DocumentManager](https://github.com/ivanchiou/DocumentManager), 2019.11.9 - 2020.1.3  
+    A document manager application for blind people.  
+    A member of team.
 * PTT official app, 2019.11.16 - present  
-    A member of PTT official app team    
+    A member of PTT official app team.
