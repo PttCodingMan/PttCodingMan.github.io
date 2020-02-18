@@ -29,8 +29,5 @@ You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia
     This project collected my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).
 * uPtt, 2019.10.25 - present  
     Developing.
-* [DocumentManager](https://github.com/ivanchiou/DocumentManager), 2019.11.9 - 2020.1.3  
-    A document manager application for blind people.  
-    A member of team.
 * PTT official app, 2019.11.16 - present  
     A member of PTT official app team.
