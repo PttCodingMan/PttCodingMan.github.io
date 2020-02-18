@@ -30,5 +30,5 @@ You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia
 * uPtt, 2019.10.25 - present  
     Developing.
 * PTT official app, 2019.11.16 - present  
-    A member of PTT official app team.
+    A member of PTT official app team.  
     Developing.
