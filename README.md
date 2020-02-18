@@ -18,8 +18,9 @@ You can reach me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia.g
 ### Projects
 * [ServiSign](https://www.changingtec.com/servisign.html), 2015.7.10 - present  
     A cross-platform cross-browser plugin application programming interface.  
-    It can make any [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) from IE-only to cross-browser on Windows.  
-    This architecture can also be used on MacOS and Linux.
+    It can make any browser able to call functions in [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) on Windows.  
+    This architecture can also be used on MacOS and Linux.  
+    [Success story](https://www.google.com/search?q=ServiSign)
 * [PyPtt](https://github.com/PttCodingMan/PyPtt), 2017.5.28 - present  
     A pure python library to operate [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PTTOTP](https://github.com/PttCodingMan/PTTOTP), 2018.06.20 - present    
