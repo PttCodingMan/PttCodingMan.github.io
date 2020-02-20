@@ -12,7 +12,7 @@ You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia
     Our new project need a legal to maintain [EULA](https://zh.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E7%94%A8%E6%88%B7%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE).
 
 ### Speaking
-* [批踢踢的相關實作與應用](https://docs.google.com/presentation/d/1aTfchLP8VzYhIBGCciC12mR-YtHqMB3a2OIOi8aFNeY/edit?usp=sharing), 2018.10.21
+* [批踢踢的相關實作與應用](https://docs.google.com/presentation/d/1aTfchLP8VzYhIBGCciC12mR-YtHqMB3a2OIOi8aFNeY/edit?usp=sharing) at [伴居本](https://www.facebook.com/pages/category/Product-Service/Node%E4%BC%B4%E5%B1%85%E6%9C%AC-299481797489470/), 2018.10.21
 
 
 ### Projects
