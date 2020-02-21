@@ -1,4 +1,4 @@
-## Welcome CodingMan page
+## Welcome to CodingMan page
 
 ![](https://raw.githubusercontent.com/PttCodingMan/PttCodingMan.github.io/master/logo/logo_transparent_300.png)
 
