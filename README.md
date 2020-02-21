@@ -1,6 +1,6 @@
-## Welcome
+## Welcome to CodingMan page
 
-![](https://raw.githubusercontent.com/PttCodingMan/PttCodingMan.github.io/master/logo/facebook_cover_photo_2.png)
+![](https://raw.githubusercontent.com/PttCodingMan/PttCodingMan.github.io/master/logo/logo_transparent_300.png)
 
 Hi, I am CodingMan, bug maker.  
 A software engineer at [Changingtec](https://www.changingtec.com/).
