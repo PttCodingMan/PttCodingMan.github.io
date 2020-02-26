@@ -17,7 +17,7 @@ You can contact me via CodingMan@uptt.cc or [![chatroom icon](https://patrolavia
 
 ### Projects
 
-github: https://github.com/PttCodingMan
+github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 
 * [ServiSign](https://www.changingtec.com/servisign.html)  
     Main developer, 2015.7.10 - present  
