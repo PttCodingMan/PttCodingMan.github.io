@@ -29,7 +29,7 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     Establisher, 2017.5.28 - present  
     A pure python library to operate [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PTTOTP](https://github.com/PttCodingMan/PTTOTP) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTOTP?style=social)  
-    Establisher, 2018.06.20 - present    
+    Establisher, 2018.06.20 - stop maintaining    
     A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     You can use google authenticator on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
 * [PttBots](https://github.com/PttCodingMan/PTTBots) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTBots?style=social)  
