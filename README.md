@@ -43,4 +43,4 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     Developing.
 * [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
     Establisher, 2020.03.07 - present  
-    Anonymous chat service for [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
+    Anonymous chat pairing service on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
