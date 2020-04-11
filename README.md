@@ -39,7 +39,7 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     Establisher, 2019.10.25 - present  
     Developing.
 * PTT official app  
-    Member, 2019.11.16 - present  
+    Member, backend, 2019.11.16 - present  
     Developing.
 * [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
     Establisher, 2020.03.07 - present  
