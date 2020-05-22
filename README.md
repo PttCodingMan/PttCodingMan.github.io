@@ -44,3 +44,6 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 * [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
     Establisher, 2020.03.07 - present  
     Chat pairing service on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
+* [PTT Beauty Telegram Bot](https://github.com/PttCodingMan/telegram_beauty_bot) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/telegram_beauty_bot?style=social)  
+    Establisher, 2020.05.21 - present  
+    Beauty picture service.
