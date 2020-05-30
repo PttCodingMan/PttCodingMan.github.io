@@ -13,6 +13,7 @@ You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatr
 
 ### Speaking
 * [批踢踢的相關實作與應用](https://docs.google.com/presentation/d/1aTfchLP8VzYhIBGCciC12mR-YtHqMB3a2OIOi8aFNeY/edit?usp=sharing) at [伴居本](https://chenshane911.myportfolio.com/node-website), 2018.10.21
+* Coming Soon at [COSCUP](https://coscup.org/2020/landing), 2020.08.02
 
 
 ### Projects
