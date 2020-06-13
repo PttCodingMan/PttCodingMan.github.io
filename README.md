@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/PttCodingMan/PttCodingMan.github.io/master/logo/facebook_cover_photo_2.png)
 
 Hi, I am CodingMan, bug maker.  
-A software engineer at [Changingtec](https://www.changingtec.com/).
+A software engineer  [Changingtec](https://www.changingtec.com/).
 
 You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)
 
