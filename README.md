@@ -21,7 +21,7 @@ You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatr
 github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 
 * [ServiSign](https://www.changingtec.com/servisign.html)  
-    Establisher, 2015.7.10 - present  
+    Founder, 2015.7.10 - present  
     A cross-platform cross-browser plugin application programming interface.  
     It can make any browser able to call functions in [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) on Windows.  
     Also, we can use this architecture on MacOS and Linux.  
