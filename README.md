@@ -20,7 +20,7 @@ If you are interested in my work skills, you can refer to [Linkedin](https://www
 * PyPtt - 當 Python 遇上 PTT at [COSCUP 2020](https://coscup.org/2020/), 2020.08.02
 
 
-### Projects
+### Open projects
 
 github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 
