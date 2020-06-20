@@ -39,7 +39,6 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     This project collects my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).  
     For example:  
     - Multi post tool: This can collect all articles that violate the rules.  
-    
     Techniques: Python
  
 * uPtt  
