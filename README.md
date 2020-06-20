@@ -37,8 +37,11 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 * [PttBots](https://github.com/PttCodingMan/PTTBots) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTBots?style=social)  
     Establisher, 2018.10.10 - present  
     This project collects my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).  
-    Techniques: Python
+    For example:  
+    - Multi post tool: This can collect all articles that violate the rules.  
     
+    Techniques: Python
+ 
 * uPtt  
     Establisher, 2019.10.25 - present  
     Developing.
@@ -47,7 +50,7 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     
 * PTT official app  
     Member, backend, 2019.11.16 - present  
-    Developing.  
+    Developing.
     Techniques: Python, C#, MSQL, iOS, Android
     
 * [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
