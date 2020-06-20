@@ -6,7 +6,7 @@ Hi, I am CodingMan, bug maker.
 A software engineer in [Changingtec](https://www.changingtec.com/).
 
 You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
-If you are interested in my work skills, please refer to [linkedin](https://www.linkedin.com/in/li-tseng-669aa0155/)
+If you are interested in my work skills, you can refer to [Linkedin](https://www.linkedin.com/in/codingman/)
 
 ### Wanted
 * Legal  
@@ -21,12 +21,6 @@ If you are interested in my work skills, please refer to [linkedin](https://www.
 
 github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 
-* [ServiSign](https://www.changingtec.com/servisign.html)  
-    Founder, 2015.7.10 - present  
-    A cross-platform cross-browser plugin application programming interface.  
-    It can make any browser able to call functions in [ActiveX](https://zh.wikipedia.org/wiki/ActiveX) on Windows.  
-    Also, we can use this architecture on MacOS and Linux.  
-    [Success story](https://www.google.com/search?q=ServiSign)
 * [PyPtt](https://github.com/PttCodingMan/PyPtt) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PyPtt?style=social)  
     Establisher, 2017.5.28 - present  
     A pure python library to operate [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).
