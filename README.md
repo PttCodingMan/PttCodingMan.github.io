@@ -27,28 +27,34 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     Establisher, 2017.5.28 - present  
     A pure python library of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Techniques: Python, Websocet, Telnet
+    
 * [PTT-One-Time-Password](https://github.com/PttCodingMan/PTT-One-Time-Password) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTT-One-Time-Password?style=social)  
     Establisher, 2018.06.20 - stop maintaining    
     A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     You can use google authenticator on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Techniques: Python, PyQt5
+    
 * [PttBots](https://github.com/PttCodingMan/PTTBots) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTBots?style=social)  
     Establisher, 2018.10.10 - present  
     This project collects my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).  
     Techniques: Python
+    
 * uPtt  
     Establisher, 2019.10.25 - present  
     Developing.
     A messenger of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Techniques: Python, Websocket, Flask, Angular, electron, NSIS
+    
 * PTT official app  
     Member, backend, 2019.11.16 - present  
     Developing.
     Techniques: Python, C#, MSQL, iOS, Android
+    
 * [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
     Establisher, 2020.03.07 - present  
     Chat pairing service on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Techniques: Python
+    
 * [PTT Beauty Telegram Bot](https://github.com/PttCodingMan/telegram_beauty_bot) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/telegram_beauty_bot?style=social)  
     Establisher, 2020.05.21 - present  
     Beauty picture service.  
