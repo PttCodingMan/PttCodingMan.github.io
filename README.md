@@ -9,7 +9,7 @@ A solution provider.
 I love learning about programming, and I am excited about every new challenge.
 
 You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
-If you are interested in my work skills, you can refer to [Linkedin](https://www.linkedin.com/in/codingman/)
+If you are interested in my work skills, please refer to [Linkedin](https://www.linkedin.com/in/codingman/)
 
 ### Wanted
 * Legal  
