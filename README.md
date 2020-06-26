@@ -51,7 +51,7 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
     
 * PTT official app  
     Member, backend, 2019.11.16 - present  
-    Developing.
+    Developing.  
     Techniques: Python, C#, MSQL, iOS, Android
     
 * [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
