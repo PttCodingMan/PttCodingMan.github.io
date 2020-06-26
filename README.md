@@ -4,8 +4,8 @@
 
 Hi, I am CodingMan, bug maker.  
 A software engineer in [Changingtec](https://www.changingtec.com/).  
-A solution provider.
-I love learning about programming, and I am excited about every new challenge.
+A solution provider.  
+I love learning about programming, and I am excited about every new challenge.  
 
 github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
