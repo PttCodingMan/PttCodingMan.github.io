@@ -5,9 +5,9 @@
 Hi, I am CodingMan, bug maker.  
 A software engineer in [Changingtec](https://www.changingtec.com/).  
 A solution provider.
-
 I love learning about programming, and I am excited about every new challenge.
 
+github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
 If you are interested in my work skills, please refer to [Linkedin](https://www.linkedin.com/in/codingman/)
 
@@ -22,8 +22,6 @@ If you are interested in my work skills, please refer to [Linkedin](https://www.
 * PyPtt - 高效能登入式爬蟲 at [Submitted]
 
 ### Open projects
-
-github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
 
 * [PyPtt](https://github.com/PttCodingMan/PyPtt) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PyPtt?style=social)  
     Establisher, 2017.5.28 - present  
@@ -45,8 +43,8 @@ github: [https://github.com/PttCodingMan](https://github.com/PttCodingMan)
  
 * uPtt  
     Establisher, 2019.10.25 - present  
-    Developing.
     A messenger of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
+    Developing.  
     Techniques: Python, Websocket, Flask, Angular, electron, NSIS
     
 * PTT official app  
