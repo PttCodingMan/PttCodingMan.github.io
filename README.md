@@ -14,7 +14,7 @@ If you are interested in my work skills, please refer to [Linkedin](https://www.
 ### Wanted
 * Legal  
     Our new project need a legal to maintain [EULA](https://zh.wikipedia.org/wiki/%E6%9C%80%E7%BB%88%E7%94%A8%E6%88%B7%E8%AE%B8%E5%8F%AF%E5%8D%8F%E8%AE%AE).
-* UI designer
+* UI designer  
     Our new project need a UI designer to help frontend construct UI.
 
 ### Speaking
