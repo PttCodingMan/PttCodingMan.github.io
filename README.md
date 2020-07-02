@@ -7,9 +7,11 @@ A software engineer in [Changingtec](https://www.changingtec.com/).
 A solution provider.  
 I love learning about programming, and I am excited about every new challenge.  
 
-github: [@PttCodingMan](https://github.com/PttCodingMan)  
-You can contact me via [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc) or [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
-If you are interested in my work skills, please refer to [Linkedin](https://www.linkedin.com/in/codingman/)
+The links about me:  
+* github: [@PttCodingMan](https://github.com/PttCodingMan)  
+* mail: [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc)  
+* Linkedin: [CodingMan](https://www.linkedin.com/in/codingman/)  
+* telegram: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
 
 ### Wanted
 * Legal  
