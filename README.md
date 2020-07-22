@@ -12,6 +12,7 @@ The links about me:
 * mail: [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc)  
 * Linkedin: [CodingMan](https://www.linkedin.com/in/codingman/)  
 * telegram: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
+* Twitter: [@CodingMan9](https://twitter.com/intent/user?screen_name=CodingMan9)
 
 ### Wanted
 * Legal  
