@@ -24,7 +24,7 @@ The links about me:
 * [批踢踢的相關實作與應用](https://docs.google.com/presentation/d/1aTfchLP8VzYhIBGCciC12mR-YtHqMB3a2OIOi8aFNeY/edit?usp=sharing) at [伴居本](https://chenshane911.myportfolio.com/node-website), 2018.10.21
 * PyPtt - 當 Python 遇上 PTT at [COSCUP 2020](https://coscup.org/2020/), 2020.08
 * PyPtt - 當 Python 遇上 PTT at [PyCon Taiwan 2020](https://tw.pycon.org/2020), 2020.09
-* PyPtt - 高效能登入式爬蟲 at [Submitted]
+* PyPtt - 登入式爬蟲 at [Submitted]
 
 ### Open projects
 
