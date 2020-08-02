@@ -22,7 +22,7 @@ The links about me:
 
 ### Speaking
 * [批踢踢的相關實作與應用](https://docs.google.com/presentation/d/1aTfchLP8VzYhIBGCciC12mR-YtHqMB3a2OIOi8aFNeY/edit?usp=sharing) at [伴居本](https://chenshane911.myportfolio.com/node-website), 2018.10.21
-* PyPtt - 當 Python 遇上 PTT at [COSCUP 2020](https://coscup.org/2020/), 2020.08
+* [PyPtt - 當 Python 遇上 PTT](https://docs.google.com/presentation/d/1Uw76Lb9D3RqVS3Re5PWNBrgiO5SJOk8KqhPE3GvPjCs/edit?usp=sharing) at [COSCUP 2020](https://coscup.org/2020/), 2020.08
 * PyPtt - 當 Python 遇上 PTT at [PyCon Taiwan 2020](https://tw.pycon.org/2020), 2020.09
 * PyPtt - 登入式爬蟲 at [Submitted]
 
