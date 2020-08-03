@@ -7,17 +7,13 @@ A software engineer in [Changingtec](https://www.changingtec.com/).
 A solution provider.  
 I love learning about programming, and I am excited about every new challenge.  
 
-* The links about me:  
-If you want to find my code  
-* github: [@PttCodingMan](https://github.com/PttCodingMan)  
-If you want to contact me  
-* mail: [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc)  
-If you are interested in my work skills  
-* Linkedin: [CodingMan](https://www.linkedin.com/in/codingman/)  
-If you want to contact privately  
-* telegram: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
-If you want to track my shitpost  
-* Twitter: [@CodingMan9](https://twitter.com/intent/user?screen_name=CodingMan9)
+The links about me:  
+
+If you want to find my code: github [@PttCodingMan](https://github.com/PttCodingMan)  
+If you want to contact me seriously: mail: [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc)  
+If you are interested in my work skills: Linkedin: [CodingMan](https://www.linkedin.com/in/codingman/)  
+If you want to contact privately: telegram: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
+If you want to track my shitpost: Twitter: [@CodingMan9](https://twitter.com/intent/user?screen_name=CodingMan9)  
 
 ### Wanted
 * Legal  
