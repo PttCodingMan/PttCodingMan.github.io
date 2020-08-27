@@ -10,7 +10,7 @@ I love learning about programming, and I am excited about every new challenge.
 The links about me:  
 
 If you want to find my code - github: [@PttCodingMan](https://github.com/PttCodingMan)  
-If you want to contact me seriously - mail: [CodingMan@uptt.cc](mailto:CodingMan@uptt.cc)  
+If you want to contact me seriously - mail: [pttcodingman@gmail.com](mailto:pttcodingman@gmail.com)  
 If you are interested in my work skills - Linkedin: [CodingMan](https://www.linkedin.com/in/codingman/)  
 If you want to contact privately - telegram: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
 If you want to track my shitpost - Twitter: [@CodingMan9](https://twitter.com/CodingMan9)  
