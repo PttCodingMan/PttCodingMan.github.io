@@ -31,7 +31,7 @@ If you want to follow my shitpost - Twitter: [@CodingMan9](https://twitter.com/C
 
 * [PyPtt](https://github.com/PttCodingMan/PyPtt) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PyPtt?style=social)  
     Establisher, 2017.5.28 - present  
-    A pure python library of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
+    A pure python library of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2) bot.  
     Techniques: Python, Websocet, Telnet
     
 * [PTT-One-Time-Password](https://github.com/PttCodingMan/PTT-One-Time-Password) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTT-One-Time-Password?style=social)  
