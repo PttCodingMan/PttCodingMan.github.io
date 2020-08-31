@@ -13,7 +13,7 @@ If you want to find my code - github: [@PttCodingMan](https://github.com/PttCodi
 If you want to contact me seriously - mail: [pttcodingman@gmail.com](mailto:pttcodingman@gmail.com)  
 If you are interested in my work skills - Linkedin: [CodingMan](https://www.linkedin.com/in/codingman/)  
 If you want to contact privately - telegram: [![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/PttCodingMan)  
-If you want to track my shitpost - Twitter: [@CodingMan9](https://twitter.com/CodingMan9)  
+If you want to follow my shitpost - Twitter: [@CodingMan9](https://twitter.com/CodingMan9)  
 
 ### Wanted
 * Legal  
@@ -23,9 +23,9 @@ If you want to track my shitpost - Twitter: [@CodingMan9](https://twitter.com/Co
 
 ### Speaking
 * [批踢踢的相關實作與應用](https://docs.google.com/presentation/d/1aTfchLP8VzYhIBGCciC12mR-YtHqMB3a2OIOi8aFNeY/edit?usp=sharing) at [伴居本](https://chenshane911.myportfolio.com/node-website), 2018.10.21
-* [PyPtt - 當 Python 遇上 PTT](https://docs.google.com/presentation/d/1Uw76Lb9D3RqVS3Re5PWNBrgiO5SJOk8KqhPE3GvPjCs/edit?usp=sharing) at [COSCUP 2020](https://coscup.org/2020/), 2020.08
-* PyPtt - 當 Python 遇上 PTT at [PyCon Taiwan 2020](https://tw.pycon.org/2020), 2020.09
-* PyPtt - 登入式爬蟲 at [Submitted]
+* [PyPtt - 當 Python 遇上 PTT v 1](https://docs.google.com/presentation/d/1Uw76Lb9D3RqVS3Re5PWNBrgiO5SJOk8KqhPE3GvPjCs/edit?usp=sharing) at [COSCUP 2020](https://coscup.org/2020/), 2020.08
+* PyPtt - 當 Python 遇上 PTT v 2 at [PyCon Taiwan 2020](https://tw.pycon.org/2020), 2020.09
+* PyPtt - 登入式爬蟲 v 1 at [Submitted]
 
 ### Open projects
 
