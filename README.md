@@ -44,13 +44,13 @@ I love learning about programming, and I am excited about every new challenge.
     Multi post tool can collect all articles that violate the rules.  
     Techniques: Python
  
-* uPtt  
+* [uPtt](https://github.com/uPtt-messenger/uPtt)  
     Establisher, 2019.10.25 - present  
     A messenger of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Developing.  
     Techniques: Python, Websocket, Flask, Angular, electron, NSIS
     
-* PTT official app  
+* [PTT official app](https://github.com/Ptt-official-app)  
     Member, backend, 2019.11.16 - present  
     Developing.  
     Techniques: Python, C#, MSQL, iOS, Android
