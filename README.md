@@ -6,7 +6,8 @@ I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA in [Cha
 A solution provider.  
 I love learning about programming, and I am excited about every new challenge.  
 
-![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PttCodingMan&theme=dark&layout=compact)](https://github.com/PttCodingMan)  
+[![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
 
 ### I’m currently working on 
   * [PyPtt](https://github.com/PttCodingMan/PyPtt)
@@ -32,18 +33,21 @@ I love learning about programming, and I am excited about every new challenge.
 
 ### Open projects
 
-* [PyPtt](https://github.com/PttCodingMan/PyPtt) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PyPtt?style=social)  
+* [PyPtt](https://github.com/PttCodingMan/PyPtt)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)](https://github.com/PttCodingMan/PyPtt)  
     Establisher, 2017.5.28 - present  
     A pure python library of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2) bot.  
     Techniques: Python, Websocet, Telnet
     
-* [PTT-One-Time-Password](https://github.com/PttCodingMan/PTT-One-Time-Password) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTT-One-Time-Password?style=social)  
+* [PTT-One-Time-Password](https://github.com/PttCodingMan/PTT-One-Time-Password)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PTT-One-Time-Password&theme=dark)](https://github.com/PttCodingMan/PTT-One-Time-Password)  
     Establisher, 2018.06.20 - stop maintaining    
     A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     You can use google authenticator on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Techniques: Python, PyQt5
     
-* [PttBots](https://github.com/PttCodingMan/PTTBots) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PTTBots?style=social)  
+* [PttBots](https://github.com/PttCodingMan/PTT_bots)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PTT_bots&theme=dark)](https://github.com/PttCodingMan/PTT_bots)  
     Establisher, 2018.10.10 - present  
     This project collects my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).  
     For example:  
@@ -51,22 +55,26 @@ I love learning about programming, and I am excited about every new challenge.
     Techniques: Python
  
 * [uPtt](https://github.com/uPtt-messenger/uPtt)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uPtt-messenger&repo=uPtt&theme=dark)](https://github.com/uPtt-messenger/uPtt)  
     Establisher, 2019.10.25 - present  
     A messenger of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Developing.  
     Techniques: Python, Websocket, Flask, Angular, electron, NSIS
     
 * [PTT official app](https://github.com/Ptt-official-app)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptt-official-app&repo=ptt_official_app_wanted&theme=dark)](https://github.com/Ptt-official-app/ptt_official_app_wanted)  
     Member, backend, 2019.11.16 - present  
     Developing.  
     Techniques: Python, C#, MSQL, iOS, Android
     
-* [PttTalk](https://github.com/PttCodingMan/PttTalk) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/PttTalk?style=social)  
+* [PttTalk](https://github.com/PttCodingMan/PttTalk)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PttTalk&theme=dark)](https://github.com/PttCodingMan/PttTalk)  
     Establisher, 2020.03.07 - present  
     Chat pairing service on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
     Techniques: Python
     
-* [PTT Beauty Telegram Bot](https://github.com/PttCodingMan/telegram_beauty_bot) ![GitHub stars](https://img.shields.io/github/stars/PttCodingMan/telegram_beauty_bot?style=social)  
+* [PTT Beauty Telegram Bot](https://github.com/PttCodingMan/telegram_beauty_bot)  
+    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=telegram_beauty_bot&theme=dark)](https://github.com/PttCodingMan/telegram_beauty_bot)  
     Establisher, 2020.05.21 - present  
     Beauty picture service.  
     Techniques: Python, Telegram bot sdk
