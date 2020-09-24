@@ -6,7 +6,7 @@ I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA in [Cha
 A solution provider.  
 I love learning about programming, and I am excited about every new challenge.  
 
-* 🔭 I’m currently working on 
+### I’m currently working on 
   * [PyPtt](https://github.com/PttCodingMan/PyPtt)
   * [PTT official app](https://github.com/Ptt-official-app)
   * [uPtt](https://github.com/uPtt-messenger/uPtt)
