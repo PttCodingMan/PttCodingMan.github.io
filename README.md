@@ -11,7 +11,7 @@ I love learning about programming, and I am excited about every new challenge.
   * [PTT official app](https://github.com/Ptt-official-app)
   * [uPtt](https://github.com/uPtt-messenger/uPtt)
 
-### 🐵 If you...
+### If you...
 * want to find my code - github: [@PttCodingMan](https://github.com/PttCodingMan)  
 * want to contact me seriously - mail: [pttcodingman@gmail.com](mailto:pttcodingman@gmail.com)  
 * are interested in my work skills - Linkedin: [@CodingMan](https://www.linkedin.com/in/codingman/)  
