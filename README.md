@@ -2,9 +2,8 @@
 
 ![](https://raw.githubusercontent.com/PttCodingMan/PttCodingMan.github.io/master/logo/facebook_cover_photo_2.png)
 
-I am CodingMan🐵. Bug maker. A back-end engineer is transferring to QA in [Changingtec](https://www.changingtec.com/).  
-A solution provider.  
-I love learning about programming, and I am excited about every new challenge.  
+### I am CodingMan🐵. Bug maker. 
+### A back-end engineer is transferring to QA in [Changingtec](https://www.changingtec.com/).  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PttCodingMan&theme=dark&layout=compact)](https://github.com/PttCodingMan)  
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
@@ -33,41 +32,48 @@ I love learning about programming, and I am excited about every new challenge.
 
 ### Open projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)](https://github.com/PttCodingMan/PyPtt)  
-    Establisher, 2017.5.28 - present  
-    A pure python library of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2) bot.  
-    Techniques: Python, Websocet, Telnet
+### [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PyPtt&theme=dark)](https://github.com/PttCodingMan/PyPtt)  
+- Establisher, 2017.5.28 - present  
+- A pure python library of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2) bot.  
+- Techniques: Python, Websocet, Telnet
+---
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PTT-One-Time-Password&theme=dark)](https://github.com/PttCodingMan/PTT-One-Time-Password)  
-    Establisher, 2018.06.20 - stop maintaining    
-    A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
-    You can use google authenticator on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
-    Techniques: Python, PyQt5
+- Establisher, 2018.06.20 - stop maintaining    
+- A one-time password application of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
+- You can use google authenticator on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
+- Techniques: Python, PyQt5
+---
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PTT_bots&theme=dark)](https://github.com/PttCodingMan/PTT_bots)  
-    Establisher, 2018.10.10 - present  
-    This project collects my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).  
-    For example:  
-    Multi post tool can collect all articles that violate the rules.  
-    Techniques: Python
+- Establisher, 2018.10.10 - present  
+- This project collects my implementations what developed by using [PyPtt](https://github.com/PttCodingMan/PyPtt).  
+- For example:  
+    - Multi post tool can collect all articles that violate the rules.  
+- Techniques: Python
+---
  
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=uPtt-messenger&repo=uPtt&theme=dark)](https://github.com/uPtt-messenger/uPtt)  
-    Establisher, 2019.10.25 - present  
-    A messenger of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
-    Developing.  
-    Techniques: Python, Websocket, Flask, Angular, electron, NSIS
+- Establisher, 2019.10.25 - present  
+- A messenger of [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
+- Developing.  
+- Techniques: Python, Websocket, Flask, Angular, electron, NSIS
+---
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Ptt-official-app&repo=ptt_official_app_wanted&theme=dark)](https://github.com/Ptt-official-app/ptt_official_app_wanted)  
-    Member, backend, 2019.11.16 - present  
-    Developing.  
-    Techniques: Python, C#, MSQL, iOS, Android
+- Member, backend, 2019.11.16 - present  
+- Developing.  
+- Techniques: Python, C#, MSQL, iOS, Android
+---
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=PttTalk&theme=dark)](https://github.com/PttCodingMan/PttTalk)  
-    Establisher, 2020.03.07 - present  
-    Chat pairing service on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
-    Techniques: Python
+- Establisher, 2020.03.07 - present  
+- Chat pairing service on [PTT](https://zh.wikipedia.org/wiki/%E6%89%B9%E8%B8%A2%E8%B8%A2).  
+- Techniques: Python
+---
     
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PttCodingMan&repo=telegram_beauty_bot&theme=dark)](https://github.com/PttCodingMan/telegram_beauty_bot) 
-    Establisher, 2020.05.21 - present  
-    Beauty picture service.  
-    Techniques: Python, Telegram bot sdk
+- Establisher, 2020.05.21 - present  
+- Beauty picture service.  
+- Techniques: Python, Telegram bot sdk
+---
