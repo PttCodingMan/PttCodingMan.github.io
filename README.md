@@ -3,7 +3,7 @@
 ![](https://raw.githubusercontent.com/PttCodingMan/PttCodingMan.github.io/master/logo/facebook_cover_photo_2.png)
 
 ### I am CodingMan🐵. Bug maker. 
-### A back-end engineer is transferring to QA in [Changingtec](https://www.changingtec.com/).  
+### A back-end engineer in [Changingtec](https://www.changingtec.com/).  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PttCodingMan&theme=dark&layout=compact)](https://github.com/PttCodingMan)  
 [![CodingMan's github stats](https://github-readme-stats.vercel.app/api?username=PttCodingMan&count_private=true&theme=dark)](https://github.com/PttCodingMan)  
